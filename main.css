@@ -1,0 +1,30 @@
+body {
+  background: #fffdd0;
+  box-sizing: border-box;
+}
+
+.yemek-isim {
+  font-style: italic;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+h4 {
+  font-weight: bold;
+  color: red;
+}
+
+div {
+  margin-left: 200px;
+}
+
+ul {
+  list-style: none;
+}
+
+.tarif {
+  background-color: rgb(243, 223, 111);
+  border-radius: 25px;
+  text-align: center;
+}
